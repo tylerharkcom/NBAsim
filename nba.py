@@ -13,6 +13,22 @@
 import csv
 import random
 
+current_year = 2020
+
+east_atlantic = {"TOR", "BOS", "PHI", "BRK", "NYK"}
+east_central = {"MIL", "IND", "CHI", "DET", "CLE"}
+east_southeast = {"MIA", "ORL", "WAS", "CHO", "ATL"}
+west_northwest = {"DEN", "OKC", "UTA", "POR", "MIN"}
+west_pacific = {"LAL", "LAC", "SAC", "PHO", "GSW"}
+west_southwest = {"HOU", "DAL", "MEM", "NOP", "SAS"}
+
+east1 = {"TOR", "BOS", "PHI", "BRK", "NYK", "MIL", "IND", "CHI", "DET", "CLE", "MIA", "ORL", "WAS", "CHO", "ATL"}
+west1 = {"DEN", "OKC", "UTA", "POR", "MIN", "LAL", "LAC", "SAC", "PHO", "GSW", "HOU", "DAL", "MEM", "NOP", "SAS"}
+
+east = {"atlantic":{"TOR":{"wins":0, "losses":0}, "BOS":{"wins":0, "losses":0}, "PHI":{"wins":0, "losses":0}, "BRK":{"wins":0, "losses":0}, "NYK":{"wins":0, "losses":0}},
+         "central":{"MIL":{"wins":0, "losses":0}, "IND":{"wins":0, "losses":0}, "CHI":{"wins":0, "losses":0}, "DET":{"wins":0, "losses":0}, "CLE":{"wins":0, "losses":0}},
+         "southeast":{"MIA":{"wins":0, "losses":0}, "ORL":{"wins":0, "losses":0}, "WAS":{"wins":0, "losses":0}, "CHO":{"wins":0, "losses":0}, "ATL":{"wins":0, "losses":0}}}
+
 # Key for nba_elo.csv column id's
 # row[4] = team1
 # row[5] = team2
@@ -23,11 +39,12 @@ import random
 # row[22] = team1_score
 # row[23] = team2_score
 
-def getCurrentResults():
+def getCurrentResults(yr):
     with open('nba_elo.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
-        target_year = int(input("Get NBA results for which year?"))
+        # target_year = int(input("Get NBA results for which year?"))
+        target_year = yr
         results = {}
         # print("target_year = ")
         # print(target_year)
@@ -70,13 +87,14 @@ def getCurrentResults():
                     else:
                         line_count += 1
         print(f'Processed {line_count} lines.')
-        print(results)
+        sortRankings(results)
 
-def predictResults():
+def predictResults(yr):
     with open('nba_elo.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
-        target_year = int(input("Get NBA results for which year?"))
+        # target_year = int(input("Get NBA results for which year: "))
+        target_year = yr
         results = {}
         # print("target_year = ")
         # print(target_year)
@@ -102,23 +120,7 @@ def predictResults():
                     team2_score = row[23]
                     if team1_score == '': # Game hasn't been played yet
                         team1prob = float(row[8])
-                        # if (team1prob >= 0.500):
-                        #     # print(f"{team1} has a {team1prob} chance to beat {team2}")
-                        # else:
-                            # print(f"{team2} has a {1 - team1prob} chance to beat {team1}")
-                        res = random.uniform(0.0, 1.0)
-                        if team1prob >= res: # Team1 wins
-                            # print(f"{team1} sim_beats {team2}.")
-                            results[team1]['wins'] += 1
-                            results[team2]['losses'] += 1
-                            # print(f'{team1} has a record of ' + str(results[team1]['wins']) + '-' + str(results[team1]['losses']))
-                            # print(f'{team2} has a record of ' + str(results[team2]['wins']) + '-' + str(results[team2]['losses']))
-                        else: # Team2 wins
-                            # print(f"{team2} sim_beats {team1}.")
-                            results[team1]['losses'] += 1
-                            results[team2]['wins'] += 1
-                            # print(f'{team1} has a record of ' + str(results[team1]['wins']) + '-' + str(results[team1]['losses']))
-                            # print(f'{team2} has a record of ' + str(results[team2]['wins']) + '-' + str(results[team2]['losses']))
+                        predictGame(team1, team2, team1prob, results)
                     elif int(team1_score) > int(team2_score):
                         # print(f'{team1} beat {team2} by a score of {team1_score} - {team2_score}.')
                         if (row[3] == ''): # If it's still the regular season
@@ -135,12 +137,69 @@ def predictResults():
                             # print(f'{team2} has a record of ' + str(results[team2]['wins']) + '-' + str(results[team2]['losses']))
                     else:
                         line_count += 1
+
         print(f'Processed {line_count} lines.')
-        print(results)
+        sortRankings(results)
 
-sim = input("Would you like to simulate results of unplayed games? Please enter: Y/N ")
+# def predictConfResults(yr):
+#     with open('nba_elo.csv') as csv_file:
+#         csv_reader = csv.reader(csv_file, delimiter=',')
+#         line_count = 0
+#         if (target_year > 2020 or target_year < 1947):
+#             print("Error: Please insert a year between 1947 and 2020.")
+#         else:
+#             for row in csv_reader:
+#                 if line_count == 0 or int(row[1]) != target_year:
+#                     line_count += 1
+#                 else:
+#                     team1 = row[4]
+#                     team2 = row[5]
+#                     team1_score = row[22]
+#                     team2_score = row[23]
+#                     if team1_score == '': # Game hasn't been played yet
+#                         prob = float(row[8]) # Probability that Team1 wins, from FiveThirtyEight
+#                         predictGame(team1, team2, prob)
+#                     elif int(team1_score) > int(team2_score):
+#                         if (row[3] == ''): # If it's still the regular season
+#                             results[team1]['wins'] += 1
+#                             results[team2]['losses'] += 1
+#                     elif int(team2_score) > int(team1_score):
+#                         if (row[3] == ''): # If it's still the regular season
+#                             results[team1]['losses'] += 1
+#                             results[team2]['wins'] += 1
+#                     else:
+#                         line_count += 1
 
-if (sim == "Y"):
-    predictResults()
-else:
-    getCurrentResults()
+def predictGame(team1, team2, prob, results):
+    res = random.uniform(0.0, 1.0)
+    if prob >= res: # Team1 wins
+        results[team1]['wins'] += 1
+        results[team2]['losses'] += 1
+    else: # Team2 wins
+        results[team1]['losses'] += 1
+        results[team2]['wins'] += 1
+
+def sortRankings(rankings):
+    result = sorted(rankings.items(), key = lambda x: x[1]['wins'], reverse=True)
+    print(result)
+
+
+def startProg():
+    print("Welcome to [Untitled NBA Predictor]. Please select a program to continue: ")
+    print("1: NBA Historical Records, 2: Current NBA Season Simulator, 3: Single Team Simulation")
+    inpt = int(input())
+    if inpt == 1:
+        print("Welcome to the NBA Historical Records Archive")
+        print("Please enter a year from 1947 to 2019 to view historical data.")
+        year = int(input())
+        getCurrentResults(year)
+    elif inpt == 2:
+        print(f"Predicting results from the {current_year} NBA season.")
+        predictResults(current_year)
+    elif inpt == 3:
+        print("Single Team Simulation coming soon...")
+    else:
+        print("Menu item not found. Please choose an item from our menu.")
+
+
+startProg()
