@@ -1,0 +1,1600 @@
+Would you like to simulate results of unplayed games? Please enter: Y/N Get NBA results for which year?TOR beat NOP by a score of 130 - 122.
+LAC beat LAL by a score of 112 - 102.
+CHO beat CHI by a score of 126 - 125.
+DET beat IND by a score of 119 - 110.
+ORL beat CLE by a score of 94 - 85.
+MIN beat BRK by a score of 127 - 126.
+PHI beat BOS by a score of 107 - 93.
+MIA beat MEM by a score of 120 - 101.
+SAS beat NYK by a score of 120 - 111.
+DAL beat WAS by a score of 108 - 100.
+UTA beat OKC by a score of 100 - 95.
+DEN beat POR by a score of 108 - 100.
+PHO beat SAC by a score of 124 - 95.
+ATL beat DET by a score of 117 - 100.
+MIL beat HOU by a score of 117 - 111.
+LAC beat GSW by a score of 141 - 122.
+BOS beat TOR by a score of 112 - 106.
+MIN beat CHO by a score of 121 - 99.
+BRK beat NYK by a score of 113 - 109.
+WAS beat OKC by a score of 97 - 85.
+DAL beat NOP by a score of 123 - 116.
+CHI beat MEM by a score of 110 - 102.
+DEN beat PHO by a score of 108 - 107.
+POR beat SAC by a score of 122 - 112.
+LAL beat UTA by a score of 95 - 86.
+MIA beat MIL by a score of 131 - 126.
+PHI beat DET by a score of 117 - 111.
+BOS beat NYK by a score of 118 - 95.
+ATL beat ORL by a score of 103 - 99.
+TOR beat CHI by a score of 108 - 84.
+CLE beat IND by a score of 110 - 99.
+HOU beat NOP by a score of 126 - 123.
+SAS beat WAS by a score of 124 - 122.
+UTA beat SAC by a score of 113 - 81.
+PHO beat LAC by a score of 130 - 122.
+OKC beat GSW by a score of 120 - 92.
+MEM beat BRK by a score of 134 - 133.
+MIN beat MIA by a score of 116 - 109.
+POR beat DAL by a score of 121 - 119.
+LAL beat CHO by a score of 120 - 101.
+NYK beat CHI by a score of 105 - 98.
+DET beat IND by a score of 96 - 94.
+TOR beat ORL by a score of 104 - 95.
+PHI beat ATL by a score of 105 - 103.
+MIL beat CLE by a score of 129 - 112.
+GSW beat NOP by a score of 134 - 123.
+HOU beat OKC by a score of 116 - 112.
+SAS beat POR by a score of 113 - 110.
+DEN beat SAC by a score of 101 - 94.
+UTA beat PHO by a score of 96 - 95.
+LAC beat CHO by a score of 111 - 96.
+MIA beat ATL by a score of 112 - 97.
+DAL beat DEN by a score of 109 - 106.
+LAL beat MEM by a score of 120 - 91.
+PHI beat MIN by a score of 117 - 95.
+CLE beat CHI by a score of 117 - 111.
+ORL beat NYK by a score of 95 - 83.
+TOR beat DET by a score of 125 - 113.
+IND beat BRK by a score of 118 - 108.
+BOS beat MIL by a score of 116 - 105.
+POR beat OKC by a score of 102 - 99.
+HOU beat WAS by a score of 159 - 158.
+UTA beat LAC by a score of 110 - 96.
+CHO beat SAC by a score of 118 - 111.
+PHO beat GSW by a score of 121 - 110.
+MIA beat ATL by a score of 106 - 97.
+NOP beat DEN by a score of 122 - 107.
+LAC beat SAS by a score of 103 - 97.
+BRK beat HOU by a score of 123 - 116.
+MIL beat ORL by a score of 123 - 91.
+IND beat CLE by a score of 102 - 95.
+BOS beat NYK by a score of 104 - 102.
+CHI beat DET by a score of 112 - 106.
+LAL beat DAL by a score of 119 - 110.
+SAC beat UTA by a score of 102 - 101.
+SAS beat GSW by a score of 127 - 110.
+OKC beat NOP by a score of 115 - 104.
+DEN beat ORL by a score of 91 - 87.
+DET beat BRK by a score of 113 - 109.
+MIN beat WAS by a score of 131 - 109.
+MIL beat TOR by a score of 115 - 105.
+PHO beat MEM by a score of 114 - 105.
+CHO beat GSW by a score of 93 - 87.
+PHI beat POR by a score of 129 - 128.
+IND beat CHI by a score of 108 - 95.
+SAC beat NYK by a score of 113 - 92.
+MIA beat HOU by a score of 129 - 100.
+LAL beat SAS by a score of 103 - 96.
+DAL beat CLE by a score of 131 - 111.
+LAC beat UTA by a score of 105 - 94.
+WAS beat DET by a score of 115 - 99.
+BRK beat NOP by a score of 135 - 125.
+HOU beat MEM by a score of 107 - 100.
+MIL beat MIN by a score of 134 - 106.
+PHO beat PHI by a score of 114 - 109.
+GSW beat POR by a score of 127 - 118.
+CHO beat IND by a score of 122 - 120.
+BOS beat CLE by a score of 119 - 113.
+ATL beat SAS by a score of 108 - 100.
+OKC beat ORL by a score of 102 - 94.
+LAL beat CHI by a score of 118 - 112.
+DEN beat MIA by a score of 109 - 89.
+DET beat NYK by a score of 122 - 102.
+IND beat WAS by a score of 121 - 106.
+CHI beat ATL by a score of 113 - 93.
+TOR beat SAC by a score of 124 - 120.
+HOU beat GSW by a score of 129 - 112.
+MEM beat MIN by a score of 137 - 121.
+DAL beat ORL by a score of 107 - 106.
+UTA beat PHI by a score of 106 - 104.
+MIL beat LAC by a score of 129 - 124.
+BOS beat CHO by a score of 108 - 87.
+SAS beat OKC by a score of 121 - 112.
+MIA beat PHO by a score of 124 - 108.
+LAC beat POR by a score of 107 - 101.
+IND beat DET by a score of 112 - 106.
+CLE beat WAS by a score of 113 - 100.
+ORL beat MEM by a score of 118 - 86.
+SAC beat ATL by a score of 121 - 109.
+MIN beat GSW by a score of 125 - 119.
+TOR beat NOP by a score of 122 - 104.
+NYK beat DAL by a score of 106 - 102.
+DEN beat PHI by a score of 100 - 97.
+UTA beat MIL by a score of 103 - 100.
+BRK beat POR by a score of 119 - 115.
+LAL beat MIA by a score of 95 - 80.
+BOS beat SAS by a score of 135 - 115.
+NOP beat CHO by a score of 115 - 110.
+HOU beat CHI by a score of 117 - 94.
+DAL beat MEM by a score of 138 - 122.
+OKC beat GSW by a score of 114 - 108.
+DEN beat MIN by a score of 100 - 98.
+PHI beat CHO by a score of 114 - 106.
+IND beat ORL by a score of 109 - 102.
+MIL beat OKC by a score of 121 - 119.
+CLE beat NYK by a score of 108 - 87.
+PHO beat BRK by a score of 138 - 112.
+POR beat ATL by a score of 124 - 113.
+TOR beat LAL by a score of 113 - 104.
+MIN beat DET by a score of 120 - 114.
+MEM beat SAS by a score of 113 - 109.
+BOS beat DAL by a score of 116 - 106.
+HOU beat NOP by a score of 122 - 116.
+UTA beat GSW by a score of 122 - 108.
+LAC beat TOR by a score of 98 - 88.
+IND beat OKC by a score of 111 - 85.
+PHI beat CLE by a score of 98 - 97.
+MIA beat DET by a score of 117 - 108.
+CHI beat NYK by a score of 120 - 102.
+UTA beat BRK by a score of 119 - 114.
+ATL beat DEN by a score of 125 - 121.
+LAL beat PHO by a score of 123 - 115.
+SAC beat POR by a score of 107 - 99.
+ORL beat PHI by a score of 112 - 97.
+MEM beat CHO by a score of 119 - 117.
+BOS beat WAS by a score of 140 - 133.
+HOU beat LAC by a score of 102 - 93.
+MIN beat SAS by a score of 129 - 114.
+LAL beat GSW by a score of 120 - 94.
+TOR beat POR by a score of 114 - 106.
+MIA beat CLE by a score of 108 - 97.
+MIL beat CHI by a score of 124 - 115.
+NYK beat DAL by a score of 106 - 103.
+NOP beat LAC by a score of 132 - 127.
+PHO beat ATL by a score of 128 - 112.
+DEN beat BRK by a score of 101 - 93.
+ORL beat SAS by a score of 111 - 109.
+CHO beat DET by a score of 109 - 106.
+HOU beat IND by a score of 111 - 102.
+OKC beat PHI by a score of 127 - 119.
+MEM beat UTA by a score of 107 - 106.
+WAS beat MIN by a score of 137 - 116.
+LAL beat SAC by a score of 99 - 97.
+BOS beat GSW by a score of 105 - 100.
+BRK beat CHI by a score of 117 - 111.
+MIL beat IND by a score of 102 - 83.
+CHO beat NYK by a score of 103 - 102.
+HOU beat MIN by a score of 125 - 105.
+MIA beat NOP by a score of 109 - 94.
+DAL beat TOR by a score of 110 - 102.
+POR beat SAS by a score of 121 - 116.
+LAC beat ATL by a score of 150 - 101.
+PHI beat CLE by a score of 114 - 95.
+SAC beat BOS by a score of 100 - 99.
+DEN beat MEM by a score of 131 - 114.
+ORL beat WAS by a score of 125 - 121.
+NOP beat GSW by a score of 108 - 100.
+LAL beat ATL by a score of 122 - 101.
+NYK beat CLE by a score of 123 - 105.
+IND beat BRK by a score of 115 - 86.
+TOR beat CHO by a score of 132 - 96.
+MIL beat CHI by a score of 115 - 101.
+HOU beat POR by a score of 132 - 108.
+DAL beat SAS by a score of 117 - 110.
+MIN beat UTA by a score of 112 - 102.
+BOS beat PHO by a score of 99 - 85.
+LAC beat OKC by a score of 90 - 88.
+GSW beat MEM by a score of 114 - 95.
+NOP beat POR by a score of 115 - 104.
+SAC beat PHO by a score of 120 - 116.
+LAL beat OKC by a score of 112 - 107.
+PHI beat NYK by a score of 109 - 104.
+WAS beat SAS by a score of 138 - 132.
+BRK beat CHO by a score of 101 - 91.
+MIA beat CLE by a score of 124 - 100.
+TOR beat ORL by a score of 113 - 97.
+DAL beat GSW by a score of 142 - 94.
+MIL beat ATL by a score of 135 - 127.
+CHI beat DET by a score of 109 - 89.
+UTA beat MIN by a score of 103 - 95.
+DEN beat HOU by a score of 105 - 95.
+LAC beat BOS by a score of 107 - 104.
+MIL beat POR by a score of 137 - 129.
+NOP beat PHO by a score of 124 - 121.
+WAS beat CHO by a score of 125 - 118.
+DET beat ATL by a score of 128 - 103.
+BRK beat SAC by a score of 116 - 97.
+MIA beat CHI by a score of 116 - 108.
+PHI beat SAS by a score of 115 - 104.
+LAL beat OKC by a score of 130 - 127.
+DAL beat CLE by a score of 143 - 101.
+DEN beat BOS by a score of 96 - 92.
+UTA beat GSW by a score of 113 - 109.
+LAC beat HOU by a score of 122 - 119.
+PHO beat MIN by a score of 100 - 98.
+CHI beat CHO by a score of 116 - 115.
+IND beat ORL by a score of 111 - 106.
+PHI beat MIA by a score of 113 - 86.
+TOR beat ATL by a score of 119 - 116.
+SAS beat NYK by a score of 111 - 104.
+LAL beat MEM by a score of 109 - 108.
+CLE beat POR by a score of 110 - 104.
+MIL beat DET by a score of 104 - 90.
+UTA beat NOP by a score of 128 - 120.
+DAL beat HOU by a score of 137 - 123.
+SAC beat WAS by a score of 113 - 106.
+BRK beat NYK by a score of 103 - 101.
+DEN beat PHO by a score of 116 - 104.
+LAC beat NOP by a score of 134 - 109.
+IND beat MEM by a score of 126 - 114.
+BRK beat CLE by a score of 108 - 106.
+DET beat ORL by a score of 103 - 88.
+MIN beat ATL by a score of 125 - 113.
+TOR beat PHI by a score of 101 - 96.
+MIA beat CHO by a score of 117 - 100.
+BOS beat SAC by a score of 103 - 102.
+MIL beat UTA by a score of 122 - 118.
+POR beat CHI by a score of 117 - 94.
+LAL beat SAS by a score of 114 - 104.
+OKC beat GSW by a score of 100 - 97.
+LAC beat DAL by a score of 114 - 99.
+DEN beat WAS by a score of 117 - 104.
+PHI beat SAC by a score of 97 - 91.
+CHO beat DET by a score of 102 - 101.
+BOS beat BRK by a score of 121 - 110.
+ORL beat CLE by a score of 116 - 104.
+IND beat UTA by a score of 121 - 102.
+TOR beat NYK by a score of 126 - 98.
+LAC beat MEM by a score of 121 - 119.
+MIL beat ATL by a score of 111 - 102.
+HOU beat MIA by a score of 117 - 108.
+MIN beat SAS by a score of 113 - 101.
+WAS beat PHO by a score of 140 - 132.
+LAL beat NOP by a score of 114 - 110.
+POR beat OKC by a score of 136 - 119.
+GSW beat CHI by a score of 104 - 90.
+BRK beat BOS by a score of 112 - 107.
+CHO beat DET by a score of 110 - 107.
+TOR beat ORL by a score of 90 - 83.
+PHI beat NYK by a score of 101 - 95.
+MIL beat CLE by a score of 119 - 110.
+MIA beat GSW by a score of 122 - 105.
+OKC beat NOP by a score of 109 - 104.
+IND beat ATL by a score of 105 - 104.
+UTA beat MEM by a score of 103 - 94.
+SAS beat LAC by a score of 107 - 97.
+DAL beat PHO by a score of 120 - 113.
+POR beat CHI by a score of 107 - 103.
+LAL beat WAS by a score of 125 - 103.
+SAC beat DEN by a score of 100 - 97.
+PHI beat IND by a score of 119 - 116.
+HOU beat ATL by a score of 158 - 111.
+MIL beat CHO by a score of 137 - 96.
+MIA beat BRK by a score of 109 - 106.
+BOS beat NYK by a score of 113 - 104.
+MEM beat MIN by a score of 115 - 107.
+DAL beat LAL by a score of 114 - 100.
+DET beat SAS by a score of 132 - 98.
+OKC beat NOP by a score of 107 - 104.
+ORL beat GSW by a score of 100 - 96.
+TOR beat UTA by a score of 130 - 110.
+LAC beat WAS by a score of 150 - 125.
+PHI beat UTA by a score of 103 - 94.
+PHO beat CHO by a score of 109 - 104.
+ATL beat GSW by a score of 104 - 79.
+MIL beat NYK by a score of 132 - 88.
+IND beat MEM by a score of 117 - 104.
+CHI beat SAC by a score of 113 - 106.
+ORL beat WAS by a score of 127 - 120.
+DET beat CLE by a score of 127 - 94.
+DAL beat NOP by a score of 118 - 97.
+MIA beat TOR by a score of 121 - 110.
+SAS beat HOU by a score of 135 - 133.
+LAL beat DEN by a score of 105 - 96.
+LAC beat POR by a score of 117 - 97.
+ORL beat PHO by a score of 128 - 114.
+CHO beat GSW by a score of 106 - 91.
+MIL beat DET by a score of 127 - 103.
+BOS beat MIA by a score of 112 - 93.
+BRK beat ATL by a score of 130 - 118.
+IND beat OKC by a score of 107 - 100.
+CHI beat MEM by a score of 106 - 99.
+DAL beat MIN by a score of 121 - 114.
+LAL beat UTA by a score of 121 - 96.
+POR beat SAC by a score of 127 - 116.
+WAS beat PHI by a score of 119 - 113.
+DEN beat NYK by a score of 129 - 92.
+HOU beat TOR by a score of 119 - 109.
+PHO beat NOP by a score of 139 - 132.
+ORL beat CLE by a score of 93 - 87.
+DET beat IND by a score of 108 - 101.
+BRK beat CHO by a score of 111 - 104.
+OKC beat MIN by a score of 139 - 127.
+GSW beat CHI by a score of 100 - 98.
+MIA beat WAS by a score of 112 - 103.
+BOS beat DEN by a score of 108 - 95.
+MIL beat LAC by a score of 119 - 91.
+SAS beat SAC by a score of 105 - 104.
+LAL beat POR by a score of 136 - 113.
+DAL beat NOP by a score of 130 - 84.
+PHI beat CLE by a score of 141 - 94.
+IND beat NYK by a score of 104 - 103.
+HOU beat PHO by a score of 115 - 109.
+UTA beat MEM by a score of 126 - 112.
+BRK beat DEN by a score of 105 - 102.
+ATL beat CHO by a score of 122 - 107.
+MIA beat CHI by a score of 110 - 105.
+LAC beat WAS by a score of 135 - 119.
+PHI beat TOR by a score of 110 - 104.
+SAC beat DAL by a score of 110 - 106.
+OKC beat POR by a score of 108 - 96.
+LAL beat MIN by a score of 142 - 125.
+LAC beat IND by a score of 110 - 99.
+BOS beat CLE by a score of 110 - 88.
+TOR beat CHI by a score of 93 - 92.
+SAC beat HOU by a score of 119 - 118.
+MIL beat ORL by a score of 110 - 101.
+DET beat NOP by a score of 105 - 103.
+OKC beat UTA by a score of 104 - 90.
+PHO beat MIN by a score of 125 - 109.
+MEM beat GSW by a score of 110 - 102.
+CHO beat WAS by a score of 114 - 107.
+PHI beat DEN by a score of 97 - 92.
+MIA beat ATL by a score of 135 - 121.
+POR beat NYK by a score of 115 - 87.
+IND beat BOS by a score of 122 - 117.
+LAL beat ORL by a score of 96 - 87.
+HOU beat CLE by a score of 116 - 110.
+LAC beat TOR by a score of 112 - 92.
+CHO beat BRK by a score of 113 - 108.
+UTA beat MIN by a score of 127 - 116.
+CHI beat ATL by a score of 136 - 102.
+MEM beat PHO by a score of 115 - 108.
+MIL beat NOP by a score of 127 - 112.
+SAC beat OKC by a score of 94 - 93.
+NYK beat GSW by a score of 124 - 122.
+PHI beat BOS by a score of 115 - 109.
+CLE beat SAS by a score of 117 - 109.
+DAL beat DET by a score of 122 - 111.
+DEN beat POR by a score of 114 - 99.
+LAL beat MIA by a score of 113 - 110.
+HOU beat ORL by a score of 130 - 107.
+PHI beat NOP by a score of 116 - 109.
+IND beat ATL by a score of 110 - 100.
+MIL beat MEM by a score of 127 - 114.
+CHO beat CHI by a score of 83 - 73.
+UTA beat GSW by a score of 114 - 106.
+LAC beat MIN by a score of 124 - 117.
+NYK beat SAC by a score of 103 - 101.
+SAS beat PHO by a score of 121 - 119.
+TOR beat BRK by a score of 110 - 102.
+CHI beat LAC by a score of 109 - 106.
+MEM beat WAS by a score of 128 - 111.
+MIA beat DAL by a score of 122 - 118.
+MIL beat CLE by a score of 125 - 108.
+DET beat HOU by a score of 115 - 107.
+DEN beat OKC by a score of 110 - 102.
+ORL beat NOP by a score of 130 - 119.
+IND beat CHO by a score of 107 - 85.
+LAL beat ATL by a score of 101 - 96.
+BRK beat PHI by a score of 109 - 89.
+DEN beat NYK by a score of 111 - 105.
+SAC beat GSW by a score of 100 - 79.
+WAS beat DET by a score of 133 - 119.
+TOR beat CLE by a score of 133 - 113.
+OKC beat CHI by a score of 109 - 106.
+DAL beat MIL by a score of 120 - 116.
+HOU beat SAS by a score of 109 - 107.
+MEM beat MIA by a score of 118 - 111.
+POR beat PHO by a score of 111 - 110.
+CHO beat SAC by a score of 110 - 102.
+IND beat LAL by a score of 105 - 102.
+NYK beat ATL by a score of 143 - 120.
+BRK beat NOP by a score of 108 - 101.
+UTA beat ORL by a score of 109 - 102.
+LAC beat PHO by a score of 120 - 99.
+CHI beat WAS by a score of 110 - 109.
+TOR beat DET by a score of 112 - 99.
+MIA beat PHI by a score of 108 - 104.
+CLE beat CHO by a score of 100 - 98.
+NOP beat MIN by a score of 107 - 99.
+OKC beat MEM by a score of 126 - 122.
+DEN beat ORL by a score of 113 - 104.
+BOS beat DAL by a score of 109 - 103.
+POR beat GSW by a score of 122 - 112.
+UTA beat ATL by a score of 111 - 106.
+MIL beat LAL by a score of 111 - 104.
+SAS beat BRK by a score of 118 - 105.
+HOU beat LAC by a score of 122 - 117.
+CLE beat MEM by a score of 114 - 107.
+IND beat SAC by a score of 119 - 105.
+TOR beat WAS by a score of 122 - 118.
+BOS beat DET by a score of 114 - 93.
+DAL beat PHI by a score of 117 - 98.
+OKC beat PHO by a score of 126 - 108.
+MIA beat NYK by a score of 129 - 114.
+DEN beat MIN by a score of 109 - 100.
+POR beat ORL by a score of 118 - 103.
+GSW beat NOP by a score of 106 - 102.
+UTA beat CHO by a score of 114 - 107.
+BRK beat ATL by a score of 122 - 112.
+CHI beat DET by a score of 119 - 107.
+PHI beat WAS by a score of 125 - 108.
+MIL beat NYK by a score of 123 - 102.
+MEM beat SAC by a score of 119 - 115.
+LAC beat SAS by a score of 134 - 109.
+HOU beat PHO by a score of 139 - 125.
+POR beat MIN by a score of 113 - 106.
+TOR beat DAL by a score of 110 - 107.
+BOS beat CHO by a score of 119 - 93.
+MIL beat IND by a score of 117 - 89.
+OKC beat LAC by a score of 118 - 112.
+DEN beat LAL by a score of 128 - 104.
+ORL beat CHI by a score of 103 - 95.
+WAS beat NYK by a score of 121 - 115.
+IND beat TOR by a score of 120 - 115.
+CLE beat ATL by a score of 121 - 118.
+PHI beat DET by a score of 125 - 109.
+MIA beat UTA by a score of 107 - 104.
+SAS beat MEM by a score of 145 - 115.
+DEN beat PHO by a score of 113 - 111.
+NOP beat POR by a score of 102 - 94.
+HOU beat SAC by a score of 113 - 104.
+GSW beat MIN by a score of 113 - 104.
+BOS beat TOR by a score of 118 - 102.
+PHI beat MIL by a score of 121 - 109.
+GSW beat HOU by a score of 116 - 104.
+LAC beat LAL by a score of 111 - 106.
+NOP beat DEN by a score of 112 - 100.
+DET beat WAS by a score of 132 - 102.
+NYK beat BRK by a score of 94 - 82.
+MEM beat OKC by a score of 110 - 97.
+DAL beat SAS by a score of 102 - 98.
+MIN beat SAC by a score of 105 - 104.
+UTA beat POR by a score of 121 - 115.
+BOS beat CLE by a score of 129 - 117.
+OKC beat CHO by a score of 104 - 102.
+ORL beat PHI by a score of 98 - 97.
+MIL beat ATL by a score of 112 - 86.
+MIA beat IND by a score of 113 - 112.
+GSW beat PHO by a score of 105 - 96.
+DEN beat MEM by a score of 119 - 110.
+NOP beat IND by a score of 120 - 98.
+TOR beat BOS by a score of 113 - 97.
+HOU beat BRK by a score of 108 - 98.
+CLE beat MIN by a score of 94 - 88.
+CHI beat ATL by a score of 116 - 81.
+MIA beat PHI by a score of 117 - 116.
+NYK beat WAS by a score of 107 - 100.
+MIL beat ORL by a score of 111 - 100.
+DAL beat GSW by a score of 141 - 121.
+SAS beat DET by a score of 136 - 109.
+PHO beat SAC by a score of 112 - 110.
+LAL beat POR by a score of 128 - 120.
+UTA beat LAC by a score of 120 - 107.
+OKC beat TOR by a score of 98 - 97.
+NOP beat HOU by a score of 127 - 112.
+DEN beat SAC by a score of 120 - 115.
+MEM beat CHO by a score of 117 - 104.
+LAL beat DAL by a score of 108 - 95.
+WAS beat MIA by a score of 123 - 105.
+ATL beat ORL by a score of 101 - 93.
+MIL beat CHI by a score of 123 - 102.
+MIN beat BRK by a score of 122 - 115.
+UTA beat DET by a score of 104 - 81.
+PHO beat POR by a score of 122 - 116.
+IND beat PHI by a score of 115 - 97.
+BOS beat CHO by a score of 109 - 92.
+LAC beat SAC by a score of 105 - 87.
+SAS beat GSW by a score of 117 - 113.
+TOR beat CLE by a score of 117 - 97.
+HOU beat DEN by a score of 130 - 104.
+OKC beat DAL by a score of 106 - 101.
+ORL beat WAS by a score of 122 - 101.
+NYK beat POR by a score of 117 - 93.
+MIL beat MIN by a score of 106 - 104.
+LAL beat PHO by a score of 117 - 107.
+CHO beat CLE by a score of 109 - 106.
+DEN beat IND by a score of 124 - 116.
+MIA beat TOR by a score of 84 - 76.
+UTA beat CHI by a score of 102 - 98.
+MIN beat GSW by a score of 99 - 84.
+OKC beat SAS by a score of 109 - 103.
+DAL beat BRK by a score of 123 - 111.
+SAC beat MEM by a score of 128 - 123.
+LAC beat DET by a score of 126 - 112.
+BOS beat ATL by a score of 109 - 106.
+POR beat WAS by a score of 122 - 103.
+ORL beat MIA by a score of 105 - 85.
+HOU beat PHI by a score of 118 - 108.
+PHO beat NYK by a score of 120 - 112.
+LAL beat NOP by a score of 123 - 113.
+MEM beat LAC by a score of 140 - 114.
+TOR beat BRK by a score of 121 - 102.
+UTA beat ORL by a score of 109 - 96.
+OKC beat CLE by a score of 121 - 106.
+ATL beat IND by a score of 116 - 111.
+WAS beat DEN by a score of 128 - 114.
+BOS beat CHI by a score of 111 - 104.
+DET beat GSW by a score of 111 - 104.
+MIL beat SAS by a score of 127 - 118.
+CHO beat DAL by a score of 123 - 120.
+NOP beat SAC by a score of 117 - 115.
+LAC beat NYK by a score of 135 - 132.
+MIA beat POR by a score of 122 - 111.
+MIN beat CLE by a score of 118 - 103.
+MEM beat PHO by a score of 121 - 114.
+LAL beat DET by a score of 106 - 99.
+ORL beat BRK by a score of 101 - 89.
+PHI beat OKC by a score of 120 - 113.
+WAS beat BOS by a score of 99 - 94.
+IND beat CHO by a score of 115 - 104.
+DEN beat ATL by a score of 123 - 115.
+UTA beat NOP by a score of 128 - 126.
+SAS beat MIL by a score of 126 - 104.
+DAL beat CHI by a score of 118 - 110.
+SAC beat GSW by a score of 111 - 98.
+DET beat CLE by a score of 115 - 113.
+POR beat TOR by a score of 101 - 99.
+OKC beat BRK by a score of 111 - 103.
+MEM beat MIN by a score of 119 - 112.
+SAC beat PHO by a score of 114 - 103.
+LAL beat NYK by a score of 117 - 87.
+MIA beat IND by a score of 122 - 108.
+TOR beat CHO by a score of 112 - 110.
+ORL beat WAS by a score of 123 - 89.
+SAS beat BOS by a score of 129 - 114.
+DEN beat DAL by a score of 107 - 106.
+HOU beat ATL by a score of 122 - 115.
+NOP beat CHI by a score of 123 - 108.
+UTA beat NYK by a score of 128 - 104.
+MIL beat GSW by a score of 107 - 98.
+PHI beat BOS by a score of 109 - 98.
+CLE beat DET by a score of 115 - 112.
+MIN beat POR by a score of 116 - 102.
+OKC beat HOU by a score of 113 - 92.
+WAS beat ATL by a score of 111 - 101.
+NOP beat NYK by a score of 123 - 111.
+BRK beat MIA by a score of 117 - 113.
+IND beat CHI by a score of 116 - 105.
+MEM beat SAS by a score of 134 - 121.
+PHO beat ORL by a score of 98 - 94.
+UTA beat CHO by a score of 109 - 92.
+LAL beat DAL by a score of 129 - 114.
+MIL beat SAC by a score of 127 - 106.
+LAC beat GSW by a score of 109 - 100.
+HOU beat MIN by a score of 139 - 109.
+BOS beat NOP by a score of 140 - 105.
+CHI beat DET by a score of 108 - 99.
+LAL beat OKC by a score of 125 - 110.
+DAL beat PHI by a score of 109 - 91.
+CLE beat DEN by a score of 111 - 103.
+MIL beat POR by a score of 122 - 101.
+UTA beat WAS by a score of 127 - 116.
+NYK beat MIA by a score of 124 - 121.
+SAS beat TOR by a score of 105 - 104.
+BRK beat ATL by a score of 108 - 86.
+MEM beat GSW by a score of 122 - 102.
+PHO beat CHO by a score of 100 - 92.
+DEN beat LAC by a score of 114 - 104.
+NOP beat DET by a score of 117 - 110.
+IND beat PHI by a score of 101 - 95.
+BOS beat CHI by a score of 113 - 101.
+OKC beat MIN by a score of 117 - 104.
+ORL beat SAC by a score of 114 - 112.
+POR beat CHO by a score of 115 - 112.
+LAL beat CLE by a score of 128 - 99.
+ATL beat PHO by a score of 123 - 110.
+UTA beat BRK by a score of 118 - 107.
+MEM beat HOU by a score of 121 - 110.
+MIL beat NYK by a score of 128 - 102.
+LAC beat CLE by a score of 128 - 103.
+DAL beat GSW by a score of 124 - 97.
+DET beat BOS by a score of 116 - 103.
+PHI beat BRK by a score of 117 - 106.
+MIA beat SAS by a score of 106 - 100.
+IND beat MIN by a score of 104 - 99.
+CHI beat WAS by a score of 115 - 106.
+TOR beat OKC by a score of 130 - 121.
+DEN beat CHO by a score of 100 - 86.
+POR beat HOU by a score of 117 - 107.
+DAL beat SAC by a score of 127 - 123.
+ORL beat LAL by a score of 119 - 118.
+PHO beat NYK by a score of 121 - 98.
+NOP beat UTA by a score of 138 - 132.
+MIL beat BOS by a score of 128 - 123.
+DEN beat GSW by a score of 134 - 131.
+LAC beat ORL by a score of 122 - 95.
+PHI beat CHI by a score of 100 - 89.
+IND beat MIN by a score of 116 - 114.
+TOR beat WAS by a score of 140 - 111.
+MEM beat CLE by a score of 113 - 109.
+MIA beat OKC by a score of 115 - 108.
+ATL beat SAS by a score of 121 - 120.
+DAL beat POR by a score of 120 - 112.
+LAC beat NOP by a score of 133 - 130.
+MIL beat BRK by a score of 117 - 97.
+PHO beat BOS by a score of 123 - 119.
+PHI beat NYK by a score of 90 - 87.
+DET beat ATL by a score of 136 - 103.
+TOR beat MIN by a score of 122 - 112.
+CHI beat CLE by a score of 118 - 116.
+LAL beat HOU by a score of 124 - 115.
+GSW beat ORL by a score of 109 - 95.
+UTA beat SAC by a score of 123 - 101.
+OKC beat POR by a score of 119 - 106.
+SAS beat MIA by a score of 107 - 102.
+IND beat DEN by a score of 115 - 107.
+WAS beat DET by a score of 106 - 100.
+TOR beat ATL by a score of 122 - 117.
+PHI beat BRK by a score of 117 - 111.
+ORL beat CHO by a score of 106 - 83.
+MIA beat SAC by a score of 118 - 113.
+NYK beat CLE by a score of 106 - 86.
+NOP beat MEM by a score of 126 - 116.
+MIL beat CHI by a score of 111 - 98.
+OKC beat HOU by a score of 112 - 107.
+BOS beat LAL by a score of 139 - 107.
+DEN beat MIN by a score of 107 - 100.
+UTA beat IND by a score of 118 - 88.
+SAS beat PHO by a score of 120 - 118.
+POR beat GSW by a score of 129 - 124.
+LAC beat DAL by a score of 110 - 107.
+OKC beat ORL by a score of 120 - 114.
+TOR beat PHI by a score of 107 - 95.
+DET beat SAC by a score of 127 - 106.
+MIA beat WAS by a score of 134 - 129.
+ATL beat LAC by a score of 102 - 95.
+LAL beat NYK by a score of 100 - 92.
+BOS beat MEM by a score of 119 - 95.
+HOU beat DEN by a score of 121 - 105.
+CHI beat MIN by a score of 117 - 110.
+IND beat PHO by a score of 112 - 87.
+SAS beat NOP by a score of 121 - 117.
+UTA beat GSW by a score of 129 - 96.
+WAS beat CLE by a score of 124 - 112.
+LAL beat BRK by a score of 128 - 113.
+DAL beat POR by a score of 133 - 125.
+MIL beat CHO by a score of 116 - 103.
+MEM beat DET by a score of 125 - 112.
+BOS beat ORL by a score of 109 - 98.
+TOR beat NYK by a score of 118 - 112.
+SAC beat CHI by a score of 98 - 81.
+OKC beat ATL by a score of 140 - 111.
+HOU beat MIN by a score of 131 - 124.
+DEN beat NOP by a score of 113 - 106.
+LAC beat MIA by a score of 122 - 117.
+PHO beat SAS by a score of 103 - 99.
+IND beat GSW by a score of 129 - 118.
+UTA beat DAL by a score of 112 - 107.
+BRK beat DET by a score of 121 - 111.
+OKC beat MIN by a score of 113 - 104.
+CHI beat CLE by a score of 118 - 106.
+PHI beat LAL by a score of 108 - 91.
+DEN beat HOU by a score of 117 - 110.
+TOR beat SAS by a score of 110 - 106.
+NOP beat BOS by a score of 123 - 108.
+ATL beat WAS by a score of 152 - 133.
+NYK beat BRK by a score of 110 - 97.
+MEM beat PHO by a score of 114 - 109.
+LAC beat ORL by a score of 112 - 97.
+POR beat IND by a score of 139 - 129.
+CLE beat DET by a score of 115 - 100.
+MIA beat ORL by a score of 113 - 92.
+DAL beat OKC by a score of 107 - 97.
+CHI beat SAS by a score of 110 - 109.
+SAC beat MIN by a score of 133 - 129.
+HOU beat UTA by a score of 126 - 117.
+CHO beat NYK by a score of 97 - 92.
+PHI beat GSW by a score of 115 - 104.
+TOR beat ATL by a score of 130 - 114.
+NOP beat CLE by a score of 125 - 111.
+MEM beat DEN by a score of 104 - 96.
+MIL beat WAS by a score of 151 - 131.
+BOS beat MIA by a score of 109 - 101.
+PHO beat DAL by a score of 133 - 104.
+IND beat CHI by a score of 115 - 106.
+BRK beat DET by a score of 125 - 115.
+MEM beat NYK by a score of 127 - 106.
+SAS beat UTA by a score of 127 - 120.
+OKC beat SAC by a score of 120 - 100.
+POR beat HOU by a score of 125 - 112.
+WAS beat CHO by a score of 121 - 107.
+TOR beat CLE by a score of 115 - 109.
+ATL beat PHI by a score of 127 - 117.
+BOS beat GSW by a score of 119 - 104.
+DEN beat UTA by a score of 106 - 100.
+SAC beat LAC by a score of 124 - 103.
+TOR beat DET by a score of 105 - 92.
+HOU beat DAL by a score of 128 - 121.
+BRK beat CHI by a score of 133 - 118.
+NOP beat MEM by a score of 139 - 111.
+OKC beat PHO by a score of 111 - 107.
+DEN beat MIL by a score of 127 - 115.
+POR beat LAL by a score of 127 - 119.
+LAC beat MIN by a score of 118 - 106.
+NYK beat IND by a score of 92 - 85.
+MIA beat ORL by a score of 102 - 89.
+GSW beat CLE by a score of 131 - 112.
+WAS beat BRK by a score of 113 - 107.
+BOS beat PHI by a score of 116 - 95.
+DAL beat ATL by a score of 123 - 100.
+SAS beat CHO by a score of 114 - 90.
+LAL beat SAC by a score of 129 - 113.
+POR beat UTA by a score of 124 - 107.
+DET beat DEN by a score of 128 - 123.
+MIL beat PHO by a score of 129 - 108.
+HOU beat NOP by a score of 117 - 109.
+TOR beat CHI by a score of 129 - 102.
+GSW beat WAS by a score of 125 - 117.
+NYK beat CLE by a score of 139 - 134.
+DAL beat IND by a score of 112 - 103.
+ORL beat CHO by a score of 112 - 100.
+BOS beat ATL by a score of 123 - 115.
+BRK beat PHO by a score of 119 - 97.
+MIA beat PHI by a score of 137 - 106.
+MEM beat DET by a score of 96 - 82.
+SAC beat MIN by a score of 113 - 109.
+LAC beat SAS by a score of 108 - 105.
+MIL beat NOP by a score of 120 - 108.
+HOU beat CHO by a score of 125 - 110.
+DEN beat POR by a score of 127 - 99.
+LAL beat SAS by a score of 129 - 102.
+DET beat PHO by a score of 116 - 108.
+TOR beat IND by a score of 119 - 118.
+BRK beat GSW by a score of 129 - 88.
+BOS beat ORL by a score of 116 - 100.
+ATL beat MIN by a score of 127 - 120.
+OKC beat CLE by a score of 109 - 103.
+MEM beat DAL by a score of 121 - 107.
+DEN beat UTA by a score of 98 - 95.
+LAC beat MIA by a score of 128 - 111.
+NYK beat ORL by a score of 105 - 103.
+NOP beat CHI by a score of 125 - 119.
+MIL beat PHI by a score of 112 - 101.
+POR beat SAS by a score of 125 - 117.
+HOU beat LAL by a score of 121 - 111.
+PHI beat MEM by a score of 119 - 107.
+WAS beat DAL by a score of 119 - 118.
+BOS beat ATL by a score of 112 - 107.
+TOR beat IND by a score of 115 - 106.
+OKC beat DET by a score of 108 - 101.
+PHO beat HOU by a score of 127 - 91.
+SAC beat MIA by a score of 105 - 97.
+UTA beat POR by a score of 117 - 114.
+MIL beat ORL by a score of 111 - 95.
+DAL beat CHO by a score of 116 - 100.
+NYK beat DET by a score of 95 - 92.
+NOP beat IND by a score of 124 - 117.
+TOR beat BRK by a score of 119 - 118.
+MIN beat LAC by a score of 142 - 115.
+LAL beat GSW by a score of 125 - 120.
+DEN beat PHO by a score of 117 - 108.
+SAC beat SAS by a score of 122 - 102.
+BOS beat OKC by a score of 112 - 111.
+PHI beat CHI by a score of 118 - 111.
+ATL beat NYK by a score of 140 - 135.
+MEM beat WAS by a score of 106 - 99.
+UTA beat HOU by a score of 114 - 113.
+LAC beat CLE by a score of 133 - 92.
+POR beat MIA by a score of 115 - 109.
+BRK beat IND by a score of 106 - 105.
+ORL beat ATL by a score of 135 - 126.
+CHO beat DET by a score of 87 - 76.
+TOR beat MIN by a score of 137 - 126.
+MIL beat SAC by a score of 123 - 111.
+UTA beat DAL by a score of 123 - 119.
+DEN beat SAS by a score of 127 - 120.
+LAL beat PHO by a score of 125 - 100.
+MIA beat GSW by a score of 113 - 101.
+WAS beat CHI by a score of 126 - 114.
+PHI beat LAC by a score of 110 - 103.
+NOP beat POR by a score of 138 - 117.
+SAS beat OKC by a score of 114 - 106.
+HOU beat BOS by a score of 116 - 105.
+ORL beat DET by a score of 116 - 112.
+CLE beat ATL by a score of 127 - 105.
+WAS beat NYK by a score of 114 - 96.
+BRK beat TOR by a score of 101 - 91.
+IND beat MIL by a score of 118 - 111.
+CHO beat MIN by a score of 115 - 108.
+MEM beat POR by a score of 111 - 104.
+DAL beat SAC by a score of 130 - 111.
+PHO beat GSW by a score of 112 - 106.
+UTA beat MIA by a score of 116 - 101.
+LAL beat DEN by a score of 120 - 116.
+BOS beat LAC by a score of 141 - 133.
+OKC beat NOP by a score of 123 - 118.
+MIL beat DET by a score of 126 - 106.
+ATL beat MIA by a score of 129 - 124.
+CHO beat CHI by a score of 103 - 93.
+PHI beat BRK by a score of 112 - 104.
+SAC beat MEM by a score of 129 - 125.
+HOU beat GSW by a score of 135 - 105.
+CLE beat WAS by a score of 113 - 108.
+DAL beat ORL by a score of 122 - 106.
+IND beat NYK by a score of 106 - 98.
+TOR beat PHO by a score of 118 - 101.
+OKC beat DEN by a score of 113 - 101.
+BOS beat MIN by a score of 127 - 117.
+SAS beat UTA by a score of 113 - 104.
+LAL beat MEM by a score of 117 - 105.
+NOP beat POR by a score of 128 - 115.
+SAC beat LAC by a score of 112 - 103.
+BRK beat CHO by a score of 115 - 86.
+ATL beat DAL by a score of 111 - 107.
+MIA beat CLE by a score of 124 - 105.
+PHO beat CHI by a score of 112 - 104.
+MIL beat PHI by a score of 119 - 98.
+HOU beat UTA by a score of 120 - 110.
+LAL beat BOS by a score of 114 - 112.
+TOR beat IND by a score of 127 - 81.
+DEN beat MIN by a score of 128 - 116.
+OKC beat SAS by a score of 131 - 103.
+CHI beat WAS by a score of 126 - 117.
+NOP beat GSW by a score of 115 - 101.
+POR beat DET by a score of 107 - 104.
+MIL beat WAS by a score of 137 - 134.
+CLE beat MIA by a score of 125 - 119.
+PHI beat ATL by a score of 129 - 112.
+ORL beat BRK by a score of 115 - 113.
+HOU beat NYK by a score of 123 - 112.
+DAL beat MIN by a score of 139 - 123.
+PHO beat UTA by a score of 131 - 111.
+LAC beat MEM by a score of 124 - 97.
+IND beat CHO by a score of 119 - 80.
+MIL beat TOR by a score of 108 - 97.
+OKC beat CHI by a score of 124 - 122.
+DEN beat DET by a score of 115 - 98.
+BOS beat POR by a score of 118 - 106.
+LAL beat NOP by a score of 118 - 109.
+SAC beat GSW by a score of 112 - 94.
+BRK has a 0.5009797567094394 chance to beat WAS
+WAS sim_beats BRK.
+PHI has a 0.7382591018705061 chance to beat CLE
+CLE sim_beats PHI.
+CHO has a 0.6600678904696766 chance to beat NYK
+CHO sim_beats NYK.
+MIA has a 0.8419490181824821 chance to beat MIN
+MIA sim_beats MIN.
+ORL has a 0.5010659397143336 chance to beat ATL
+ATL sim_beats ORL.
+HOU has a 0.7635282786440486 chance to beat MEM
+MEM sim_beats HOU.
+SAS has a 0.5723399598782849 chance to beat DAL
+DAL sim_beats SAS.
+PHO has a 0.5344868123635909 chance to beat LAC
+PHO sim_beats LAC.
+UTA has a 0.5152642737901075 chance to beat BOS
+UTA sim_beats BOS.
+PHI has a 0.8797316368568987 chance to beat NYK
+PHI sim_beats NYK.
+OKC has a 0.769026018546368 chance to beat SAC
+OKC sim_beats SAC.
+IND has a 0.6980700835235547 chance to beat POR
+POR sim_beats IND.
+LAL has a 0.8037230397098647 chance to beat GSW
+LAL sim_beats GSW.
+ORL has a 0.7533344046506042 chance to beat MIN
+ORL sim_beats MIN.
+TOR has a 0.9224133983382131 chance to beat CHO
+TOR sim_beats CHO.
+BRK has a 0.5440770303257196 chance to beat ATL
+BRK sim_beats ATL.
+NOP has a 0.8827767998509926 chance to beat CLE
+NOP sim_beats CLE.
+MIA has a 0.6191051541837294 chance to beat DAL
+DAL sim_beats MIA.
+MIL has a 0.8079699219399634 chance to beat OKC
+MIL sim_beats OKC.
+MEM has a 0.6577648394255827 chance to beat SAC
+MEM sim_beats SAC.
+PHO has a 0.7949074078642671 chance to beat DET
+PHO sim_beats DET.
+UTA has a 0.829946168328646 chance to beat WAS
+UTA sim_beats WAS.
+LAC has a 0.5660046315827316 chance to beat DEN
+DEN sim_beats LAC.
+NYK has a 0.6192428392823642 chance to beat CHI
+NYK sim_beats CHI.
+POR has a 0.5484548987243586 chance to beat ATL
+ATL sim_beats POR.
+MIA has a 0.7230155201042987 chance to beat BRK
+MIA sim_beats BRK.
+IND has a 0.6874414528924095 chance to beat CLE
+CLE sim_beats IND.
+LAL has a 0.5646329673152528 chance to beat MEM
+MEM sim_beats LAL.
+SAS has a 0.7186197074097294 chance to beat ORL
+SAS sim_beats ORL.
+BOS has a 0.6791061257808965 chance to beat HOU
+BOS sim_beats HOU.
+PHO has a 0.827235494444029 chance to beat GSW
+PHO sim_beats GSW.
+MIL has a 0.8589453132374929 chance to beat CHO
+MIL sim_beats CHO.
+DAL has a 0.6482609489821021 chance to beat MIN
+MIN sim_beats DAL.
+LAC has a 0.6222502813206068 chance to beat PHI
+PHI sim_beats LAC.
+SAC has a 0.8078792946436782 chance to beat DET
+SAC sim_beats DET.
+DEN has a 0.5586119108010829 chance to beat TOR
+DEN sim_beats TOR.
+LAL has a 0.5186010752795065 chance to beat NOP
+NOP sim_beats LAL.
+GSW has a 0.5447743705726418 chance to beat WAS
+WAS sim_beats GSW.
+UTA has a 0.7187112500630433 chance to beat CLE
+CLE sim_beats UTA.
+ORL has a 0.5951941893606826 chance to beat POR
+ORL sim_beats POR.
+HOU has a 0.7465481879065023 chance to beat NYK
+HOU sim_beats NYK.
+MIL has a 0.6514312012491977 chance to beat MIA
+MIL sim_beats MIA.
+MEM has a 0.5868298560983136 chance to beat ATL
+ATL sim_beats MEM.
+DAL has a 0.6668804958673451 chance to beat CHI
+DAL sim_beats CHI.
+SAS has a 0.6189233407101667 chance to beat IND
+SAS sim_beats IND.
+SAS has a 0.6013822764098432 chance to beat CHO
+SAS sim_beats CHO.
+BOS has a 0.8205753932330346 chance to beat BRK
+BOS sim_beats BRK.
+OKC has a 0.6999090512874973 chance to beat LAC
+LAC sim_beats OKC.
+NOP has a 0.8387065048168271 chance to beat MIN
+NOP sim_beats MIN.
+TOR has a 0.6252815419575828 chance to beat PHO
+TOR sim_beats PHO.
+DEN has a 0.9100067623972795 chance to beat GSW
+DEN sim_beats GSW.
+LAL has a 0.7420194888281176 chance to beat PHI
+LAL sim_beats PHI.
+SAC has a 0.7775796381252039 chance to beat WAS
+SAC sim_beats WAS.
+BOS has a 0.8104056531300925 chance to beat CLE
+BOS sim_beats CLE.
+OKC has a 0.713443950324637 chance to beat DET
+DET sim_beats OKC.
+MIL has a 0.8676467899059483 chance to beat IND
+MIL sim_beats IND.
+MIA has a 0.7562027176086521 chance to beat ORL
+MIA sim_beats ORL.
+BRK has a 0.5990570757968936 chance to beat MEM
+MEM sim_beats BRK.
+UTA has a 0.6769383281737386 chance to beat NYK
+NYK sim_beats UTA.
+MIN has a 0.6588901120497401 chance to beat CHI
+CHI sim_beats MIN.
+DAL has a 0.6659018316676443 chance to beat NOP
+DAL sim_beats NOP.
+POR has a 0.7636641840910033 chance to beat WAS
+POR sim_beats WAS.
+DEN has a 0.7279388891513405 chance to beat CHO
+CHO sim_beats DEN.
+HOU has a 0.7096880990123087 chance to beat LAC
+HOU sim_beats LAC.
+SAC has a 0.5357279079924538 chance to beat PHI
+SAC sim_beats PHI.
+TOR has a 0.8179531159790104 chance to beat GSW
+TOR sim_beats GSW.
+WAS has a 0.6788505063681387 chance to beat ATL
+ATL sim_beats WAS.
+BRK has a 0.5953605003298742 chance to beat SAS
+SAS sim_beats BRK.
+OKC has a 0.7375515979856538 chance to beat NYK
+OKC sim_beats NYK.
+MIN has a 0.5087033396096234 chance to beat ORL
+MIN sim_beats ORL.
+IND has a 0.6225846445268852 chance to beat CHI
+CHI sim_beats IND.
+BOS has a 0.7484224825941268 chance to beat UTA
+UTA sim_beats BOS.
+NOP has a 0.634478808982135 chance to beat MIA
+MIA sim_beats NOP.
+DAL has a 0.7058380208938432 chance to beat MEM
+DAL sim_beats MEM.
+PHO has a 0.6394237903320353 chance to beat POR
+PHO sim_beats POR.
+LAL has a 0.5001455304877049 chance to beat MIL
+MIL sim_beats LAL.
+HOU has a 0.7295490694362621 chance to beat CHO
+HOU sim_beats CHO.
+UTA has a 0.6499057863912534 chance to beat DET
+UTA sim_beats DET.
+DEN has a 0.7808252320472832 chance to beat CLE
+DEN sim_beats CLE.
+MEM has a 0.8178976019332285 chance to beat ATL
+MEM sim_beats ATL.
+PHI has a 0.7168485782234642 chance to beat GSW
+PHI sim_beats GSW.
+POR has a 0.6217314184687251 chance to beat SAC
+SAC sim_beats POR.
+BRK has a 0.7976522048727278 chance to beat CHI
+BRK sim_beats CHI.
+LAC has a 0.5045662095659406 chance to beat LAL
+LAL sim_beats LAC.
+NOP has a 0.6218346356255167 chance to beat MIN
+MIN sim_beats NOP.
+BOS has a 0.689262109075952 chance to beat OKC
+BOS sim_beats OKC.
+MIL has a 0.7299321670768453 chance to beat PHO
+MIL sim_beats PHO.
+MIA has a 0.5957390069155104 chance to beat WAS
+MIA sim_beats WAS.
+HOU has a 0.820351864037046 chance to beat ORL
+HOU sim_beats ORL.
+DAL has a 0.6833526949489958 chance to beat IND
+IND sim_beats DAL.
+NYK has a 0.6117167971559601 chance to beat DET
+NYK sim_beats DET.
+SAS has a 0.6676375734270609 chance to beat CLE
+SAS sim_beats CLE.
+TOR has a 0.605993614372935 chance to beat SAC
+SAC sim_beats TOR.
+ATL has a 0.6503621641077424 chance to beat CHO
+ATL sim_beats CHO.
+MIL has a 0.5613692463745177 chance to beat DEN
+DEN sim_beats MIL.
+TOR has a 0.5241994502317002 chance to beat UTA
+TOR sim_beats UTA.
+BOS has a 0.5221896695493977 chance to beat IND
+BOS sim_beats IND.
+WAS has a 0.7071184554220438 chance to beat NYK
+NYK sim_beats WAS.
+SAS has a 0.5723399598782849 chance to beat DAL
+DAL sim_beats SAS.
+CHI has a 0.7033492115695152 chance to beat CLE
+CHI sim_beats CLE.
+MEM has a 0.7155019558303053 chance to beat ORL
+ORL sim_beats MEM.
+HOU has a 0.8869103070781313 chance to beat MIN
+HOU sim_beats MIN.
+POR has a 0.6407057097307743 chance to beat PHO
+POR sim_beats PHO.
+LAC has a 0.7010592642119509 chance to beat GSW
+GSW sim_beats LAC.
+LAL has a 0.8299661667451307 chance to beat BRK
+LAL sim_beats BRK.
+ATL has a 0.6700877624185176 chance to beat NYK
+NYK sim_beats ATL.
+PHI has a 0.8663169890640631 chance to beat DET
+DET sim_beats PHI.
+MIA has a 0.8528169275109275 chance to beat CHO
+MIA sim_beats CHO.
+OKC has a 0.7045773111232787 chance to beat UTA
+OKC sim_beats UTA.
+DAL has a 0.5712432827015385 chance to beat DEN
+DEN sim_beats DAL.
+SAC has a 0.5774698308377544 chance to beat NOP
+NOP sim_beats SAC.
+ORL has a 0.7683791434273054 chance to beat CHI
+CHI sim_beats ORL.
+MIL has a 0.7713319141111118 chance to beat BOS
+MIL sim_beats BOS.
+POR has a 0.6032919488149747 chance to beat MEM
+POR sim_beats MEM.
+BRK has a 0.5986844838611386 chance to beat GSW
+GSW sim_beats BRK.
+LAL has a 0.6931322113094888 chance to beat HOU
+HOU sim_beats LAL.
+CHO has a 0.7030653565757079 chance to beat CLE
+CHO sim_beats CLE.
+BOS has a 0.890885293368136 chance to beat WAS
+BOS sim_beats WAS.
+MIA has a 0.8635175516312281 chance to beat NYK
+MIA sim_beats NYK.
+OKC has a 0.8821092648651352 chance to beat MIN
+OKC sim_beats MIN.
+SAS has a 0.5006709529781649 chance to beat DEN
+SAS sim_beats DEN.
+UTA has a 0.6561139652138596 chance to beat NOP
+NOP sim_beats UTA.
+LAC has a 0.7365292460340321 chance to beat BRK
+BRK sim_beats LAC.
+DAL has a 0.7377841019491781 chance to beat PHO
+DAL sim_beats PHO.
+PHI has a 0.6951697895447689 chance to beat IND
+PHI sim_beats IND.
+ATL has a 0.7123701096773777 chance to beat CLE
+CLE sim_beats ATL.
+TOR has a 0.9200066518281821 chance to beat DET
+TOR sim_beats DET.
+MIA has a 0.8526461298088733 chance to beat CHI
+MIA sim_beats CHI.
+SAS has a 0.8143390419215972 chance to beat MIN
+SAS sim_beats MIN.
+MIL has a 0.9583569055151542 chance to beat GSW
+MIL sim_beats GSW.
+UTA has a 0.6966872213393095 chance to beat MEM
+UTA sim_beats MEM.
+LAC has a 0.6611336596197631 chance to beat NOP
+LAC sim_beats NOP.
+HOU has a 0.5442029598385094 chance to beat POR
+HOU sim_beats POR.
+ORL has a 0.7686211095891372 chance to beat CHO
+CHO sim_beats ORL.
+OKC has a 0.6742559568642918 chance to beat WAS
+OKC sim_beats WAS.
+BOS has a 0.7622394310532434 chance to beat CHI
+BOS sim_beats CHI.
+SAC has a 0.6619624053577541 chance to beat BRK
+SAC sim_beats BRK.
+LAL has a 0.6948620412972148 chance to beat DEN
+LAL sim_beats DEN.
+PHI has a 0.8434476812224223 chance to beat WAS
+PHI sim_beats WAS.
+MIL has a 0.8552800807877933 chance to beat MIA
+MIL sim_beats MIA.
+NOP has a 0.8439235308696861 chance to beat ATL
+ATL sim_beats NOP.
+TOR has a 0.934246861646995 chance to beat GSW
+TOR sim_beats GSW.
+SAS has a 0.6435976581239691 chance to beat MEM
+SAS sim_beats MEM.
+LAL has a 0.5010151823611111 chance to beat UTA
+UTA sim_beats LAL.
+LAC has a 0.6351301339397659 chance to beat DAL
+LAC sim_beats DAL.
+ORL has a 0.5040218350079078 chance to beat DET
+DET sim_beats ORL.
+NYK has a 0.6195634651399361 chance to beat CHO
+CHO sim_beats NYK.
+HOU has a 0.9190805848384718 chance to beat CLE
+HOU sim_beats CLE.
+MEM has a 0.5065436052758563 chance to beat OKC
+MEM sim_beats OKC.
+SAC has a 0.549421657480992 chance to beat DAL
+SAC sim_beats DAL.
+POR has a 0.7869506474671758 chance to beat MIN
+POR sim_beats MIN.
+PHI has a 0.5004970819920248 chance to beat TOR
+PHI sim_beats TOR.
+BRK has a 0.7604615451791876 chance to beat WAS
+BRK sim_beats WAS.
+BOS has a 0.9172533115866685 chance to beat NYK
+BOS sim_beats NYK.
+OKC has a 0.7110205601266211 chance to beat ATL
+OKC sim_beats ATL.
+IND has a 0.8619308563260702 chance to beat GSW
+GSW sim_beats IND.
+MIA has a 0.6466200586006643 chance to beat CHI
+MIA sim_beats CHI.
+NOP has a 0.6782687132747959 chance to beat SAS
+NOP sim_beats SAS.
+DEN has a 0.708006999222789 chance to beat LAC
+LAC sim_beats DEN.
+PHO has a 0.7864838192821109 chance to beat MIN
+PHO sim_beats MIN.
+LAL has a 0.760487356845374 chance to beat UTA
+LAL sim_beats UTA.
+PHI has a 0.679319933186987 chance to beat CHO
+PHI sim_beats CHO.
+ORL has a 0.8156024595239681 chance to beat CLE
+CLE sim_beats ORL.
+HOU has a 0.7772695032317034 chance to beat SAC
+HOU sim_beats SAC.
+MIL has a 0.8793557255116294 chance to beat MEM
+MIL sim_beats MEM.
+POR has a 0.5298623362833387 chance to beat DAL
+DAL sim_beats POR.
+IND has a 0.6158486123876421 chance to beat MIA
+MIA sim_beats IND.
+DET has a 0.6871958732490697 chance to beat GSW
+DET sim_beats GSW.
+TOR has a 0.6755938575213526 chance to beat BOS
+BOS sim_beats TOR.
+ATL has a 0.5993598047078093 chance to beat WAS
+ATL sim_beats WAS.
+OKC has a 0.631064660767155 chance to beat DEN
+DEN sim_beats OKC.
+SAS has a 0.8265198010253808 chance to beat CHI
+SAS sim_beats CHI.
+UTA has a 0.848001672776871 chance to beat MIN
+MIN sim_beats UTA.
+LAC has a 0.7336314501736318 chance to beat PHO
+LAC sim_beats PHO.
+BOS has a 0.5912072055818423 chance to beat BRK
+BOS sim_beats BRK.
+ORL has a 0.5760887705192074 chance to beat SAC
+ORL sim_beats SAC.
+IND has a 0.874294720334674 chance to beat CLE
+IND sim_beats CLE.
+LAL has a 0.7740798544490154 chance to beat CHO
+LAL sim_beats CHO.
+PHI has a 0.8649416978792484 chance to beat ATL
+PHI sim_beats ATL.
+NYK has a 0.6605912958942453 chance to beat GSW
+NYK sim_beats GSW.
+MIL has a 0.8304365608672148 chance to beat WAS
+MIL sim_beats WAS.
+HOU has a 0.8949440777029293 chance to beat CHI
+HOU sim_beats CHI.
+MEM has a 0.5963063993931387 chance to beat NOP
+NOP sim_beats MEM.
+PHO has a 0.5291692190819415 chance to beat DAL
+DAL sim_beats PHO.
+LAL has a 0.7682279434459718 chance to beat DET
+DET sim_beats LAL.
+TOR has a 0.714177813913919 chance to beat DEN
+DEN sim_beats TOR.
+NOP has a 0.6982329021195101 chance to beat SAC
+SAC sim_beats NOP.
+POR has a 0.5387593691948395 chance to beat MIN
+POR sim_beats MIN.
+SAS has a 0.5829967919812475 chance to beat UTA
+UTA sim_beats SAS.
+LAC has a 0.6818014689249527 chance to beat NYK
+LAC sim_beats NYK.
+BOS has a 0.7208181349970724 chance to beat WAS
+WAS sim_beats BOS.
+IND has a 0.6986561520701153 chance to beat PHO
+IND sim_beats PHO.
+MIA has a 0.5587006501470828 chance to beat OKC
+OKC sim_beats MIA.
+BRK has a 0.6787753455319124 chance to beat ORL
+ORL sim_beats BRK.
+DEN has a 0.7276694529515773 chance to beat CHI
+CHI sim_beats DEN.
+MIL has a 0.9490534857258239 chance to beat DET
+DET sim_beats MIL.
+DAL has a 0.5692470881858104 chance to beat HOU
+DAL sim_beats HOU.
+SAC has a 0.6466735321836433 chance to beat CLE
+CLE sim_beats SAC.
+POR has a 0.5595694889732825 chance to beat CHO
+POR sim_beats CHO.
+TOR has a 0.6611580237439532 chance to beat LAL
+TOR sim_beats LAL.
+NOP has a 0.681612928462281 chance to beat MEM
+MEM sim_beats NOP.
+PHI has a 0.6607374713631766 chance to beat MIN
+PHI sim_beats MIN.
+UTA has a 0.6934301263886898 chance to beat SAS
+UTA sim_beats SAS.
+ORL has a 0.5307117746376976 chance to beat IND
+ORL sim_beats IND.
+BRK has a 0.5307825134189927 chance to beat LAC
+LAC sim_beats BRK.
+PHO has a 0.5046997840126252 chance to beat WAS
+PHO sim_beats WAS.
+POR has a 0.5513814072580532 chance to beat DET
+POR sim_beats DET.
+MIA has a 0.5490990219074348 chance to beat DEN
+DEN sim_beats MIA.
+TOR has a 0.8041216397881249 chance to beat NYK
+TOR sim_beats NYK.
+BOS has a 0.5485588800878162 chance to beat MEM
+MEM sim_beats BOS.
+MIL has a 0.8005711555826232 chance to beat HOU
+MIL sim_beats HOU.
+GSW has a 0.5872058654218482 chance to beat ATL
+ATL sim_beats GSW.
+LAL has a 0.8202120737250241 chance to beat CLE
+LAL sim_beats CLE.
+SAS has a 0.5810686981138664 chance to beat MIN
+MIN sim_beats SAS.
+PHI has a 0.6790235782587255 chance to beat CHI
+CHI sim_beats PHI.
+OKC has a 0.890574576789839 chance to beat CHO
+OKC sim_beats CHO.
+DAL has a 0.6500660323226456 chance to beat UTA
+UTA sim_beats DAL.
+SAC has a 0.8060374161334974 chance to beat ATL
+ATL sim_beats SAC.
+IND has a 0.5212880385718555 chance to beat HOU
+HOU sim_beats IND.
+PHI has a 0.7483180030935501 chance to beat PHO
+PHI sim_beats PHO.
+ORL has a 0.5994425819008534 chance to beat BRK
+BRK sim_beats ORL.
+LAC has a 0.6549684466199329 chance to beat DET
+DET sim_beats LAC.
+BOS has a 0.8179601305646794 chance to beat POR
+BOS sim_beats POR.
+NOP has a 0.8606442907345286 chance to beat NYK
+NYK sim_beats NOP.
+MIL has a 0.9393470628018229 chance to beat WAS
+MIL sim_beats WAS.
+DEN has a 0.759256704602693 chance to beat SAS
+DEN sim_beats SAS.
+BRK has a 0.8401488868967792 chance to beat CLE
+BRK sim_beats CLE.
+LAC has a 0.6624234072958066 chance to beat CHO
+LAC sim_beats CHO.
+CHI has a 0.6603729932446754 chance to beat NYK
+CHI sim_beats NYK.
+LAL has a 0.7337358566239238 chance to beat WAS
+LAL sim_beats WAS.
+MIA has a 0.720025591621516 chance to beat PHO
+MIA sim_beats PHO.
+TOR has a 0.5872962198676255 chance to beat MEM
+TOR sim_beats MEM.
+OKC has a 0.7546495024246312 chance to beat GSW
+OKC sim_beats GSW.
+UTA has a 0.852970752959422 chance to beat ATL
+UTA sim_beats ATL.
+MIL has a 0.6307514021840123 chance to beat DAL
+MIL sim_beats DAL.
+HOU has a 0.7229565212470417 chance to beat DET
+HOU sim_beats DET.
+BOS has a 0.9032250259262741 chance to beat MIN
+MIN sim_beats BOS.
+ORL has a 0.5108699799578879 chance to beat NOP
+ORL sim_beats NOP.
+PHI has a 0.7477936534413911 chance to beat POR
+PHI sim_beats POR.
+SAS has a 0.6432418075198101 chance to beat GSW
+GSW sim_beats SAS.
+SAC has a 0.5967425337764877 chance to beat IND
+SAC sim_beats IND.
+MIA has a 0.6469307751392623 chance to beat CHO
+CHO sim_beats MIA.
+PHO has a 0.6278313329924786 chance to beat CLE
+CLE sim_beats PHO.
+TOR has a 0.8181839572766523 chance to beat MEM
+TOR sim_beats MEM.
+BRK has a 0.6359858214979132 chance to beat POR
+BRK sim_beats POR.
+LAL has a 0.7590407356504297 chance to beat MIN
+LAL sim_beats MIN.
+DEN has a 0.6489679067161876 chance to beat OKC
+DEN sim_beats OKC.
+UTA has a 0.8583580484709801 chance to beat CHI
+UTA sim_beats CHI.
+LAC has a 0.6787134128390324 chance to beat IND
+IND sim_beats LAC.
+PHI has a 0.5827222455325138 chance to beat HOU
+PHI sim_beats HOU.
+NOP has a 0.6309799868850752 chance to beat ATL
+NOP sim_beats ATL.
+DEN has a 0.761773062429673 chance to beat GSW
+GSW sim_beats DEN.
+SAC has a 0.6183559593158644 chance to beat SAS
+SAS sim_beats SAC.
+NOP has a 0.5899056445441808 chance to beat WAS
+WAS sim_beats NOP.
+ORL has a 0.7686211095891372 chance to beat CHO
+ORL sim_beats CHO.
+BRK has a 0.7924707718438457 chance to beat DET
+BRK sim_beats DET.
+BOS has a 0.7570231663864511 chance to beat MIA
+BOS sim_beats MIA.
+OKC has a 0.7831883906053245 chance to beat PHO
+OKC sim_beats PHO.
+DAL has a 0.6482609489821021 chance to beat MIN
+MIN sim_beats DAL.
+MEM has a 0.8368676008293666 chance to beat NYK
+MEM sim_beats NYK.
+MIL has a 0.7422885825159481 chance to beat TOR
+MIL sim_beats TOR.
+UTA has a 0.8898657470750143 chance to beat CLE
+UTA sim_beats CLE.
+LAL has a 0.7867166150015766 chance to beat IND
+LAL sim_beats IND.
+HOU has a 0.9106716147444547 chance to beat GSW
+HOU sim_beats GSW.
+SAC has a 0.554702997162995 chance to beat LAC
+LAC sim_beats SAC.
+POR has a 0.5407282790703618 chance to beat UTA
+POR sim_beats UTA.
+MIA has a 0.6393199667935969 chance to beat DET
+MIA sim_beats DET.
+PHI has a 0.6301394422980588 chance to beat WAS
+PHI sim_beats WAS.
+IND has a 0.7017797708107689 chance to beat BRK
+IND sim_beats BRK.
+TOR has a 0.5233317619223178 chance to beat MIL
+TOR sim_beats MIL.
+ATL has a 0.6503621641077424 chance to beat CHO
+CHO sim_beats ATL.
+BOS has a 0.8445859804876273 chance to beat ORL
+BOS sim_beats ORL.
+NYK has a 0.5995594659499695 chance to beat MIN
+MIN sim_beats NYK.
+MEM has a 0.5685744566598198 chance to beat DAL
+DAL sim_beats MEM.
+SAS has a 0.8507829443407112 chance to beat GSW
+SAS sim_beats GSW.
+DEN has a 0.8941757711437015 chance to beat CHI
+DEN sim_beats CHI.
+PHO has a 0.8421372394075588 chance to beat CLE
+CLE sim_beats PHO.
+LAC has a 0.5755245556770768 chance to beat OKC
+OKC sim_beats LAC.
+LAL has a 0.5836291850087411 chance to beat SAC
+LAL sim_beats SAC.
+CHO has a 0.6296372729093773 chance to beat ATL
+ATL sim_beats CHO.
+PHI has a 0.7819464375383557 chance to beat ORL
+PHI sim_beats ORL.
+MIL has a 0.5161330695364804 chance to beat BOS
+MIL sim_beats BOS.
+IND has a 0.8077339594541952 chance to beat WAS
+IND sim_beats WAS.
+MIA has a 0.6667507665819543 chance to beat NYK
+NYK sim_beats MIA.
+BRK has a 0.5254601742271152 chance to beat DAL
+BRK sim_beats DAL.
+DEN has a 0.7126010135743321 chance to beat UTA
+DEN sim_beats UTA.
+PHO has a 0.8000433549992161 chance to beat CHI
+PHO sim_beats CHI.
+MIN has a 0.6517069638006274 chance to beat DET
+MIN sim_beats DET.
+SAS has a 0.6000001393373287 chance to beat NOP
+SAS sim_beats NOP.
+HOU has a 0.5606193491781968 chance to beat TOR
+HOU sim_beats TOR.
+POR has a 0.6032919488149747 chance to beat MEM
+POR sim_beats MEM.
+SAC has a 0.8526755305075736 chance to beat CLE
+SAC sim_beats CLE.
+LAL has a 0.7030383977150364 chance to beat OKC
+LAL sim_beats OKC.
+LAC has a 0.8610507867254739 chance to beat CHI
+LAC sim_beats CHI.
+TOR has a 0.7514709874757328 chance to beat WAS
+TOR sim_beats WAS.
+MIL has a 0.6178099927343514 chance to beat PHI
+PHI sim_beats MIL.
+ATL has a 0.6427844806506261 chance to beat DET
+ATL sim_beats DET.
+MIA has a 0.6635887166100652 chance to beat IND
+IND sim_beats MIA.
+PHO has a 0.5380679336105594 chance to beat MIN
+MIN sim_beats PHO.
+NOP has a 0.8497575893614621 chance to beat CHO
+NOP sim_beats CHO.
+OKC has a 0.7857045412628986 chance to beat BRK
+BRK sim_beats OKC.
+SAS has a 0.6612157277165247 chance to beat SAC
+SAS sim_beats SAC.
+DAL has a 0.5692470881858104 chance to beat HOU
+HOU sim_beats DAL.
+DEN has a 0.7620544184100828 chance to beat MEM
+DEN sim_beats MEM.
+UTA has a 0.6349055573538458 chance to beat LAC
+LAC sim_beats UTA.
+LAL has a 0.9283104054909143 chance to beat GSW
+LAL sim_beats GSW.
+POR has a 0.8425067542299327 chance to beat CLE
+POR sim_beats CLE.
+TOR has a 0.7898972529285295 chance to beat CHO
+TOR sim_beats CHO.
+BOS has a 0.7755830849777139 chance to beat IND
+BOS sim_beats IND.
+ORL has a 0.5342461748994701 chance to beat NYK
+ORL sim_beats NYK.
+HOU has a 0.7607424533879981 chance to beat SAS
+HOU sim_beats SAS.
+LAL has a 0.9153999271862455 chance to beat CHI
+LAL sim_beats CHI.
+GSW has a 0.6645647182227031 chance to beat CLE
+GSW sim_beats CLE.
+MIA has a 0.848605625144561 chance to beat DET
+MIA sim_beats DET.
+MIL has a 0.8966414131457873 chance to beat BRK
+MIL sim_beats BRK.
+SAC has a 0.5582571326404547 chance to beat MIN
+MIN sim_beats SAC.
+NOP has a 0.7151280659191075 chance to beat PHO
+NOP sim_beats PHO.
+DEN has a 0.5421817681052242 chance to beat POR
+DEN sim_beats POR.
+LAL has a 0.7563971254535455 chance to beat LAC
+LAL sim_beats LAC.
+BOS has a 0.6321522988451865 chance to beat ORL
+BOS sim_beats ORL.
+TOR has a 0.9191321445346627 chance to beat ATL
+TOR sim_beats ATL.
+OKC has a 0.8988556815301759 chance to beat NYK
+OKC sim_beats NYK.
+HOU has a 0.8727832941190662 chance to beat WAS
+HOU sim_beats WAS.
+SAS has a 0.5587833857910351 chance to beat PHI
+PHI sim_beats SAS.
+DAL has a 0.8597965072229874 chance to beat DET
+DAL sim_beats DET.
+NOP has a 0.6002259214160859 chance to beat PHI
+PHI sim_beats NOP.
+CHO has a 0.5885109423183038 chance to beat WAS
+CHO sim_beats WAS.
+IND has a 0.7365843593086739 chance to beat ORL
+IND sim_beats ORL.
+MIL has a 0.8902062054312723 chance to beat CLE
+MIL sim_beats CLE.
+MIA has a 0.503716130201188 chance to beat BOS
+MIA sim_beats BOS.
+MEM has a 0.5065436052758563 chance to beat OKC
+OKC sim_beats MEM.
+BRK has a 0.5548760931644425 chance to beat CHI
+CHI sim_beats BRK.
+LAC has a 0.8811786861164069 chance to beat GSW
+LAC sim_beats GSW.
+DEN has a 0.7758561458433635 chance to beat SAC
+SAC sim_beats DEN.
+PHO has a 0.5400372751670416 chance to beat UTA
+PHO sim_beats UTA.
+HOU has a 0.5013654340167222 chance to beat SAS
+SAS sim_beats HOU.
+TOR has a 0.9284785080348622 chance to beat NYK
+TOR sim_beats NYK.
+MIL has a 0.9484787427352517 chance to beat ATL
+MIL sim_beats ATL.
+LAL has a 0.9087709828173952 chance to beat MIN
+LAL sim_beats MIN.
+IND has a 0.6606767926003321 chance to beat SAS
+IND sim_beats SAS.
+BOS has a 0.7564280996302185 chance to beat DET
+BOS sim_beats DET.
+MIA has a 0.6469307751392623 chance to beat CHO
+MIA sim_beats CHO.
+BRK has a 0.6243477689138829 chance to beat CLE
+BRK sim_beats CLE.
+MEM has a 0.554991327018802 chance to beat PHI
+PHI sim_beats MEM.
+HOU has a 0.7910637459975353 chance to beat PHO
+HOU sim_beats PHO.
+NOP has a 0.8197815058951738 chance to beat WAS
+NOP sim_beats WAS.
+ORL has a 0.5119699487894649 chance to beat CHI
+CHI sim_beats ORL.
+OKC has a 0.7045773111232787 chance to beat UTA
+OKC sim_beats UTA.
+DEN has a 0.7035722435949632 chance to beat DAL
+DEN sim_beats DAL.
+POR has a 0.6029206837439136 chance to beat GSW
+GSW sim_beats POR.
+LAC has a 0.8508570855558737 chance to beat MIN
+LAC sim_beats MIN.
+NYK has a 0.6117167971559601 chance to beat DET
+NYK sim_beats DET.
+TOR has a 0.5357102873791815 chance to beat MIA
+TOR sim_beats MIA.
+UTA has a 0.5605125121768886 chance to beat DEN
+UTA sim_beats DEN.
+LAL has a 0.8159254459704988 chance to beat SAC
+LAL sim_beats SAC.
+DAL has a 0.5807334154161745 chance to beat OKC
+OKC sim_beats DAL.
+MIL has a 0.7328555525678333 chance to beat BRK
+MIL sim_beats BRK.
+MIN has a 0.6786691914664656 chance to beat NYK
+MIN sim_beats NYK.
+HOU has a 0.7635282786440486 chance to beat MEM
+MEM sim_beats HOU.
+ATL has a 0.7123701096773777 chance to beat CLE
+ATL sim_beats CLE.
+PHI has a 0.8701110278372569 chance to beat CHO
+PHI sim_beats CHO.
+TOR has a 0.6680571504283093 chance to beat ORL
+ORL sim_beats TOR.
+IND has a 0.5705413436359629 chance to beat WAS
+WAS sim_beats IND.
+SAS has a 0.6000001393373287 chance to beat NOP
+SAS sim_beats NOP.
+BOS has a 0.910217141176747 chance to beat CHI
+BOS sim_beats CHI.
+POR has a 0.5351789776487098 chance to beat LAC
+POR sim_beats LAC.
+SAC has a 0.8385778857110638 chance to beat GSW
+SAC sim_beats GSW.
+LAL has a 0.603295222576971 chance to beat PHO
+PHO sim_beats LAL.
+Processed 68407 lines.
+{'TOR': {'wins': 58, 'losses': 24}, 'NOP': {'wins': 36, 'losses': 46}, 'LAC': {'wins': 51, 'losses': 31}, 'LAL': {'wins': 62, 'losses': 20}, 'CHO': {'wins': 27, 'losses': 55}, 'CHI': {'wins': 29, 'losses': 53}, 'IND': {'wins': 43, 'losses': 39}, 'DET': {'wins': 26, 'losses': 56}, 'ORL': {'wins': 35, 'losses': 47}, 'CLE': {'wins': 24, 'losses': 58}, 'BRK': {'wins': 37, 'losses': 45}, 'MIN': {'wins': 28, 'losses': 54}, 'PHI': {'wins': 55, 'losses': 27}, 'BOS': {'wins': 57, 'losses': 25}, 'MIA': {'wins': 51, 'losses': 31}, 'MEM': {'wins': 38, 'losses': 44}, 'SAS': {'wins': 39, 'losses': 43}, 'NYK': {'wins': 26, 'losses': 56}, 'DAL': {'wins': 47, 'losses': 35}, 'WAS': {'wins': 25, 'losses': 57}, 'UTA': {'wins': 49, 'losses': 33}, 'OKC': {'wins': 51, 'losses': 31}, 'POR': {'wins': 38, 'losses': 44}, 'DEN': {'wins': 56, 'losses': 26}, 'PHO': {'wins': 33, 'losses': 49}, 'SAC': {'wins': 36, 'losses': 46}, 'ATL': {'wins': 29, 'losses': 53}, 'HOU': {'wins': 55, 'losses': 27}, 'MIL': {'wins': 70, 'losses': 12}, 'GSW': {'wins': 19, 'losses': 63}}
